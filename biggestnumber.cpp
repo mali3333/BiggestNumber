@@ -25,7 +25,7 @@ int main()
     number3=number2;
   }
 
-  std::cout<<"Of those two numbers, the biggest is:"<<number3;
+  std::cout<<"Of those two numbers, the biggest is: "<<number3;
   //print out the variable representing the biggest number
 
   std::cout<<std::endl<<"Thank you for playing.\n";
